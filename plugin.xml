@@ -51,6 +51,8 @@
 		<source-file src="src/android/aidl/com/vfi/smartpos/deviceservice/aidl/RFSearchListener.aidl" target-dir="src/com/vfi/plugin/aidl/com/vfi/smartpos/deviceservice/aidl/" />
 		<source-file src="src/android/aidl/com/vfi/smartpos/deviceservice/aidl/ScannerListener.aidl" target-dir="src/com/vfi/plugin/aidl/com/vfi/smartpos/deviceservice/aidl/" />
 
+		<source-file src="src/android/aidl/com/vfi/smartpos/deviceservice/constdefine/ConstIPrinter.java" target-dir="src/com/vfi/plugin/aidl/com/vfi/smartpos/deviceservice/constdefine/" />
+
 		<!-- [resources] -->
 		<resource-file src="src/res/raw/logo.bmp" target="res/raw/logo.bmp" />
 	</platform>
