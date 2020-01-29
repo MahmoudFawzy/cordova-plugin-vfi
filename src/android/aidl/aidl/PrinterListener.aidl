@@ -1,4 +1,4 @@
-package com.vfi.smartpos.deviceservice.aidl;
+package com.vfi.aidl;
 
 /**
  * 打印结果监听器 | listener of printer
