@@ -51,8 +51,6 @@
 		<source-file src="src/android/aidl/RFSearchListener.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
 		<source-file src="src/android/aidl/ScannerListener.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
 
-
-		<source-file src="src/android/aidl/ScannerListener.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
 		<!-- [resources] -->
 		<resource-file src="src/res/raw/logo.bmp" target="res/raw/logo.bmp" />
 	</platform>
