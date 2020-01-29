@@ -1,10 +1,10 @@
-package com.vfi;
+package com.vfi.VFI;
 
 import android.os.Parcel;
 import android.os.Parcelable;
 
-import com.vfi.QrCodeContent;
-import com.vfi.PrinterListener;
+import com.vfi.VFI.QrCodeContent;
+import com.vfi.VFI.PrinterListener;
 
 /**
  * \cn_
