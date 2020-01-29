@@ -1,6 +1,6 @@
-package com.vfi.VFI;
+package com.vfi.vfi;
 
-import com.vfi.VFI.MagCardListener;
+import com.vfi.vfi.MagCardListener;
 
 /**
  * \cn_

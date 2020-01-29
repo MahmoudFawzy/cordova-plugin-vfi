@@ -1,4 +1,4 @@
-package com.vfi.VFI;
+package com.vfi.vfi;
 
 import android.os.Parcel;
 import android.os.Parcelable;

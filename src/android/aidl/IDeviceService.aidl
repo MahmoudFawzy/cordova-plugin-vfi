@@ -1,16 +1,16 @@
-package com.vfi.VFI;
+package com.vfi.vfi;
 
-import com.vfi.VFI.IBeeper;
-import com.vfi.VFI.ILed;
-import com.vfi.VFI.IMagCardReader;
-import com.vfi.VFI.IDeviceService;
-import com.vfi.VFI.IInsertCardReader;
+import com.vfi.vfi.IBeeper;
+import com.vfi.vfi.ILed;
+import com.vfi.vfi.IMagCardReader;
+import com.vfi.vfi.IDeviceService;
+import com.vfi.vfi.IInsertCardReader;
 
-import com.vfi.VFI.IPinpad;
-import com.vfi.VFI.IPrinter;
-import com.vfi.VFI.IRFCardReader;
-import com.vfi.VFI.IScanner;
-import com.vfi.VFI.ISerialPort;
+import com.vfi.vfi.IPinpad;
+import com.vfi.vfi.IPrinter;
+import com.vfi.vfi.IRFCardReader;
+import com.vfi.vfi.IScanner;
+import com.vfi.vfi.ISerialPort;
 
 
 /**

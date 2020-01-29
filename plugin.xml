@@ -21,7 +21,7 @@
 		<framework src="com.android.support:support-v4:25+" value="gradle" />
 		<config-file target="res/xml/config.xml" parent="/*">
 			<feature name="VFI">
-				<param name="android-package" value="com.vfi.VFI" />
+				<param name="android-package" value="com.vfi.vfi" />
 			</feature>
 		</config-file>
 		<config-file target="AndroidManifest.xml" parent="/*">

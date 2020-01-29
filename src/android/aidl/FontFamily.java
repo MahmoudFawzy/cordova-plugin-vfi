@@ -1,4 +1,4 @@
-package com.vfi.VFI;
+package com.vfi.vfi;
 
 public class FontFamily {
 	public static final int SMALL = 0;

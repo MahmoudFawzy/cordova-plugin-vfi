@@ -1,8 +1,8 @@
 
-package com.vfi.VFI;
+package com.vfi.vfi;
 
-import com.vfi.VFI.PinInputListener;
-import com.vfi.VFI.PinKeyCoorInfo;
+import com.vfi.vfi.PinInputListener;
+import com.vfi.vfi.PinKeyCoorInfo;
 
 /**
  * \cn_
