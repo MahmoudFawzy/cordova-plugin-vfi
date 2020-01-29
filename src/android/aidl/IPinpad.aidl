@@ -1,8 +1,8 @@
 
-package com.vfi;
+package com.vfi.smartpos.deviceservice.aidl;
 
-import com.vfi.PinInputListener;
-import com.vfi.PinKeyCoorInfo;
+import com.vfi.smartpos.deviceservice.aidl.PinInputListener;
+import com.vfi.smartpos.deviceservice.aidl.PinKeyCoorInfo;
 
 /**
  * \cn_

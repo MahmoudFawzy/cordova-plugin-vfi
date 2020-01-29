@@ -1,6 +1,6 @@
-package com.vfi;
+package com.vfi.smartpos.deviceservice.aidl;
 
-import com.vfi.RFSearchListener;
+import com.vfi.smartpos.deviceservice.aidl.RFSearchListener;
 
 /**
  * \cn_
