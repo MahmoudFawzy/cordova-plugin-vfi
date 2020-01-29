@@ -1,6 +1,6 @@
-package com.vfi.smartpos.deviceservice.aidl;
+package com.vfi;
 
-import com.vfi.smartpos.deviceservice.aidl.MagCardListener;
+import com.vfi.MagCardListener;
 
 /**
  * \cn_

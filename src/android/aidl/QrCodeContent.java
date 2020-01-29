@@ -1,4 +1,4 @@
-package com.vfi.smartpos.deviceservice.aidl;
+package com.vfi;
 
 import android.os.Parcel;
 import android.os.Parcelable;

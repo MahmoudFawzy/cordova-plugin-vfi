@@ -1,4 +1,4 @@
-package com.vfi.smartpos.deviceservice.aidl;
+package com.vfi;
 
 parcelable PinKeyCoorInfo;
 
