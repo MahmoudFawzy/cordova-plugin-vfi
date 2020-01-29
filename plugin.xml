@@ -28,28 +28,28 @@
 			<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 		</config-file>
 
-		<source-file src="src/android/VFI.java" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
+		<source-file src="src/android/VFI.java" target-dir="src/com/vfi/plugin/" />
 
-		<source-file src="src/android/aidl/FontFamily.java" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/IBeeper.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/IDeviceService.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/IInsertCardReader.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/ILed.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/IMagCardReader.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/IPinpad.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/IPrinter.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/IRFCardReader.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/IScanner.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/ISerialPort.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/MagCardListener.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/PinInputListener.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/PinKeyCoorInfo.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/PrinterConfig.java" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/PrinterListener.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/QrCodeContent.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/QrCodeContent.java" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/RFSearchListener.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/aidl/ScannerListener.aidl" target-dir="src/main/aidl/com/vfi/smartpos/deviceservice/aidl/" />
+		<source-file src="src/android/aidl/FontFamily.java" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/IBeeper.aidl" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/IDeviceService.aidl" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/IInsertCardReader.aidl" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/ILed.aidl" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/IMagCardReader.aidl" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/IPinpad.aidl" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/IPrinter.aidl" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/IRFCardReader.aidl" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/IScanner.aidl" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/ISerialPort.aidl" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/MagCardListener.aidl" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/PinInputListener.aidl" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/PinKeyCoorInfo.aidl" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/PrinterConfig.java" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/PrinterListener.aidl" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/QrCodeContent.aidl" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/QrCodeContent.java" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/RFSearchListener.aidl" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/ScannerListener.aidl" target-dir="src/com/vfi/plugin/" />
 
 		<!-- [resources] -->
 		<resource-file src="src/res/raw/logo.bmp" target="res/raw/logo.bmp" />
