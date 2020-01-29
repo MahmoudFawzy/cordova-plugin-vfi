@@ -1,3 +1,3 @@
-package com.vfi.vfi;
+package com.vfi;
 
 parcelable QrCodeContent;

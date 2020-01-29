@@ -1,4 +1,4 @@
-package com.vfi.vfi.smartpos.deviceservice.constdefine;
+package com.vfi.smartpos.deviceservice.constdefine;
 
 public class ConstIPrinter {
 

@@ -1,6 +1,6 @@
-package com.vfi.vfi;
+package com.vfi;
 
-import com.vfi.vfi.RFSearchListener;
+import com.vfi.RFSearchListener;
 
 /**
  * \cn_

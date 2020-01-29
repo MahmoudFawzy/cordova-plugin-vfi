@@ -1,6 +1,6 @@
-package com.vfi.vfi;
+package com.vfi;
 
-import com.vfi.vfi.ScannerListener;
+import com.vfi.ScannerListener;
 
 /**
  * \cn_

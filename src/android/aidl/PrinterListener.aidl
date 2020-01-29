@@ -1,4 +1,4 @@
-package com.vfi.vfi;
+package com.vfi;
 
 /**
  * 打印结果监听器 | listener of printer

@@ -1,4 +1,4 @@
-package com.vfi.vfi;
+package com.vfi;
 
 import org.apache.cordova.*;
 
