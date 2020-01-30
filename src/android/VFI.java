@@ -83,8 +83,7 @@ public class VFI extends CordovaPlugin {
 			callbackContext.success("1");
 			return true;
 		} else if (action.equals("printBase64")) {
-
-			print.printEndLine();
+ 
 			callbackContext.success("1");
 			return true;
 		} else {
