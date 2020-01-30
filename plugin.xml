@@ -32,8 +32,8 @@
 		</config-file>
 
 		<source-file src="src/android/VFI.java" target-dir="src/com/vfi/plugin/" />
-		<source-file src="src/android/com/vfi/smartpos/deviceservice/FontFamily.java" target-dir="src/com/vfi/smartpos/deviceservice/aidl/" />
-		<source-file src="src/android/com/vfi/smartpos/deviceservice/IBeeper.aidl" target-dir="src/com/vfi/smartpos/deviceservice/aidl/" />
+		<source-file src="src/android/com/vfi/smartpos/deviceservice/aidl/FontFamily.java" target-dir="src/com/vfi/smartpos/deviceservice/aidl/" />
+		<source-file src="src/android/com/vfi/smartpos/deviceservice/aidl/IBeeper.aidl" target-dir="src/com/vfi/smartpos/deviceservice/aidl/" />
 
 		<source-file src="src/android/com/vfi/smartpos/deviceservice/aidl/IDeviceService.aidl" target-dir="src/com/vfi/smartpos/deviceservice/aidl/" />
 		<source-file src="src/android/com/vfi/smartpos/deviceservice/aidl/IInsertCardReader.aidl" target-dir="src/com/vfi/smartpos/deviceservice/aidl/" />
