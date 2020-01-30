@@ -1,4 +1,4 @@
-package com.vfi.aidl;
+package com.vfi.plugin.aidl;
 
 /**
  * \cn_

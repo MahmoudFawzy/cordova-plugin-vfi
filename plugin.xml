@@ -23,8 +23,8 @@
 			<feature name="VFI">
 				<param name="android-package" value="com.vfi" />
 			</feature>
-			<feature name="aidl">
-				<param name="android-package" value="com.vfi.aidl" />
+			<feature name="IBeeper">
+				<param name="android-package" value="com.vfi.plugin.aidl" />
 			</feature>
 		</config-file>
 		<config-file target="AndroidManifest.xml" parent="/*">
