@@ -1,16 +1,16 @@
-package com.vfi.plugin.aidl;
+package com.vfi.smartpos.deviceservice.aidl;
 
-import com.vfi.plugin.aidl.IBeeper;
-import com.vfi.plugin.aidl.ILed;
-import com.vfi.plugin.aidl.IMagCardReader;
-import com.vfi.plugin.aidl.IDeviceService;
-import com.vfi.plugin.aidl.IInsertCardReader;
+import com.vfi.smartpos.deviceservice.aidl.IBeeper;
+import com.vfi.smartpos.deviceservice.aidl.ILed;
+import com.vfi.smartpos.deviceservice.aidl.IMagCardReader;
+import com.vfi.smartpos.deviceservice.aidl.IDeviceService;
+import com.vfi.smartpos.deviceservice.aidl.IInsertCardReader;
 
-import com.vfi.plugin.aidl.IPinpad;
-import com.vfi.plugin.aidl.IPrinter;
-import com.vfi.plugin.aidl.IRFCardReader;
-import com.vfi.plugin.aidl.IScanner;
-import com.vfi.plugin.aidl.ISerialPort;
+import com.vfi.smartpos.deviceservice.aidl.IPinpad;
+import com.vfi.smartpos.deviceservice.aidl.IPrinter;
+import com.vfi.smartpos.deviceservice.aidl.IRFCardReader;
+import com.vfi.smartpos.deviceservice.aidl.IScanner;
+import com.vfi.smartpos.deviceservice.aidl.ISerialPort;
 
 
 /**

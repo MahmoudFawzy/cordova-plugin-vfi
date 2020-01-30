@@ -1,4 +1,4 @@
-package com.vfi.plugin.aidl;
+package com.vfi.smartpos.deviceservice.aidl;
 
 /**
  * \cn_

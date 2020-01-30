@@ -1,10 +1,10 @@
-package com.vfi.plugin.aidl;
+package com.vfi.smartpos.deviceservice.aidl;
 
 import android.os.Parcel;
 import android.os.Parcelable;
 
-import com.vfi.plugin.aidl.QrCodeContent;
-import com.vfi.plugin.aidl.PrinterListener;
+import com.vfi.smartpos.deviceservice.aidl.QrCodeContent;
+import com.vfi.smartpos.deviceservice.aidl.PrinterListener;
 
 /**
  * \cn_

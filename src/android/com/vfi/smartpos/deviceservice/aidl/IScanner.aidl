@@ -1,6 +1,6 @@
-package com.vfi.plugin.aidl;
+package com.vfi.smartpos.deviceservice.aidl;
 
-import com.vfi.plugin.aidl.ScannerListener;
+import com.vfi.smartpos.deviceservice.aidl.ScannerListener;
 
 /**
  * \cn_
