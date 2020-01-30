@@ -29,9 +29,9 @@
 		</config-file>
 
 		<source-file src="src/android/VFI.java" target-dir="src/com/vfi/plugin/" />
+		<source-file src="src/android/aidl/aidl/FontFamily.java" target-dir="src/com/vfi/plugin/aidl/" />
 
-		<!-- <source-file src="src/android/aidl/aidl/FontFamily.java" target-dir="src/com/vfi/plugin/aidl/" />
-		<source-file src="src/android/aidl/aidl/IBeeper.aidl" target-dir="src/com/vfi/plugin/aidl/" />
+		<!-- <source-file src="src/android/aidl/aidl/IBeeper.aidl" target-dir="src/com/vfi/plugin/aidl/" />
 		<source-file src="src/android/aidl/aidl/IDeviceService.aidl" target-dir="src/com/vfi/plugin/aidl/" />
 		<source-file src="src/android/aidl/aidl/IInsertCardReader.aidl" target-dir="src/com/vfi/plugin/aidl/" />
 		<source-file src="src/android/aidl/aidl/ILed.aidl" target-dir="src/com/vfi/plugin/aidl/" />
