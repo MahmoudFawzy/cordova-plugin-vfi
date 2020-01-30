@@ -78,12 +78,11 @@ public class VFI extends CordovaPlugin {
 			// }
 
 			InputStream is = context.getResources().openRawResource(getAppResource(Logo, "raw"));
-			print.printBitmap(is);
 
 			callbackContext.success("1");
 			return true;
 		} else if (action.equals("printBase64")) {
- 
+
 			callbackContext.success("1");
 			return true;
 		} else {
