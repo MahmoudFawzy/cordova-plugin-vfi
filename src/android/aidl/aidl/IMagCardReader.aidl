@@ -1,6 +1,6 @@
-package com.vfi;
+package com.vfi.plugin.aidl;
 
-import com.vfi.MagCardListener;
+import com.vfi.plugin.aidl.MagCardListener;
 
 /**
  * \cn_

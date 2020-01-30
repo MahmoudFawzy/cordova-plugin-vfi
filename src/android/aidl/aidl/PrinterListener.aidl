@@ -1,4 +1,4 @@
-package com.vfi;
+package com.vfi.plugin.aidl;
 
 /**
  * 打印结果监听器 | listener of printer

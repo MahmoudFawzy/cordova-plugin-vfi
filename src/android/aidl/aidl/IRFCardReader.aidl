@@ -1,6 +1,6 @@
-package com.vfi;
+package com.vfi.plugin.aidl;
 
-import com.vfi.RFSearchListener;
+import com.vfi.plugin.aidl.RFSearchListener;
 
 /**
  * \cn_

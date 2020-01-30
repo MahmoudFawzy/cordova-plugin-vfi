@@ -1,8 +1,8 @@
 
-package com.vfi;
+package com.vfi.plugin.aidl;
 
-import com.vfi.PinInputListener;
-import com.vfi.PinKeyCoorInfo;
+import com.vfi.plugin.aidl.PinInputListener;
+import com.vfi.plugin.aidl.PinKeyCoorInfo;
 
 /**
  * \cn_

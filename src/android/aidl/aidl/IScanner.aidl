@@ -1,6 +1,6 @@
-package com.vfi;
+package com.vfi.plugin.aidl;
 
-import com.vfi.ScannerListener;
+import com.vfi.plugin.aidl.ScannerListener;
 
 /**
  * \cn_
