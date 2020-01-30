@@ -1,4 +1,4 @@
-package com.vfi.plugin.aidl.plugin.aidl;
+package com.vfi.plugin.aidl;
 
 import com.vfi.plugin.aidl.IBeeper;
 import com.vfi.plugin.aidl.ILed;
